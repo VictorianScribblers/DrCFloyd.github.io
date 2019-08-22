@@ -7,8 +7,7 @@ permalink: /credentials/
 <article class="page">
 
   <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
+<h2>Curriculum Vitae</h2>
+<h2>Resume</h2>
+ 
 </article>
