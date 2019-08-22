@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /_pages/portfolio
 ---
 
-<article class="page">
+
 
   #Workshops, Events, and Programming
   
@@ -14,4 +14,4 @@ permalink: /_pages/portfolio
   
   #Proficiencies
   
-</article>
+
