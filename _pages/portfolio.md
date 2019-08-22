@@ -1,14 +1,18 @@
 ---
 layout: default
 title: Portfolio
+permalink: /_pages/portfolio.md
 ---
 
 <article class="page">
 
-  <h1>{{ page.title }}</h1>
-  <h2>Digital Humanities</h2>
-  <h2></h2>
-  <h2></h2>
+  #Workshops, Events, and Programming
+  
+  #Digital and Public Humanities Projects
+  
+  #Maker Projects
+  
+  #Proficiencies
 
   <div class="entry">
     {{ content }}
