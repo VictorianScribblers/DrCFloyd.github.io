@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Credentials
-permalink: /_pages/credentials.md
+permalink: /_pages/credentials
 ---
 
 <article class="page">
