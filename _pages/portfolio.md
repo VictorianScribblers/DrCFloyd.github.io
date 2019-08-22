@@ -4,14 +4,14 @@ title: Portfolio
 permalink: /_pages/portfolio
 ---
 
+# Portfolio
 
-
-  #Workshops, Events, and Programming
+  ## Workshops, Events, and Programming
   
-  #Digital and Public Humanities Projects
+  ## Digital and Public Humanities Projects
   
-  #Maker Projects
+  ## Maker Projects
   
-  #Proficiencies
+  ## Proficiencies
   
 
