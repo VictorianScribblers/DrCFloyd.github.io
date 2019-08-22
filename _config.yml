@@ -12,11 +12,11 @@ author: Courtney
 description: an academic and professional portfolio (and blog)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/screen-shot-2018-08-07-at-2-06-37-pm.png
-avatar: /images/IMG_7333.JPG
-avatar: /IMG_7535.JPG
-avatar: /IMG_8250.JPG
-avatar: /IMG_8872.JPG
+avatar1: /images/screen-shot-2018-08-07-at-2-06-37-pm.png
+avatar2: /images/IMG_7333.JPG
+avatar3: /IMG_7535.JPG
+avatar4: /IMG_8250.JPG
+avatar5: /IMG_8872.JPG
 
 #
 # Flags below are optional
