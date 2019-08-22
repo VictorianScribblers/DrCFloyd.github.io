@@ -249,7 +249,7 @@ p > img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px solid $lightGray;
 	text-align: center;
 
@@ -278,6 +278,7 @@ p > img {
 .site-info {
   float: center;
 text-align: center;
+font-family: Garamond
 
   @include mobile {
     float: none;
@@ -292,7 +293,7 @@ text-align: center;
   cursor: pointer;
   font-family: Garamond;
   font-weight: 300;
-  font-size: 80px;
+  font-size: 70px;
   letter-spacing: 1px;
  text-align: center;
 }
@@ -301,7 +302,7 @@ text-align: center;
   margin: -5px 0 0 0;
   color: $gray;
 font-family: Garamond;
-  font-size: 28px;
+  font-size: 18px;
 text-align: center;
 
   @include mobile {
@@ -311,9 +312,9 @@ text-align: center;
 
 nav {
   float: center;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 13px; // @TODO: Vertically middle align
   font-family: Garamond;
-  font-size: 30px;
+  font-size: 24px;
 text-align: center;
 
   @include mobile {
