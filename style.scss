@@ -249,7 +249,7 @@ p > img {
 }
 
 .masthead {
-  padding: 10px 0;
+  padding: 05px 0;
   border-bottom: 1px solid $lightGray;
 	text-align: center;
 
@@ -302,7 +302,7 @@ font-family: Garamond;
   margin: -5px 0 0 0;
   color: $gray;
 font-family: Garamond;
-  font-size: 12px;
+  font-size: 18px;
 text-align: center;
 
   @include mobile {
@@ -314,7 +314,7 @@ nav {
   float: center;
   margin-top: 13px; // @TODO: Vertically middle align
   font-family: Garamond;
-  font-size: 18px;
+  font-size: 30px;
 text-align: center;
 
   @include mobile {
