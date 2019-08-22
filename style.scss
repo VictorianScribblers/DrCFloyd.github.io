@@ -260,8 +260,8 @@ p > img {
 
 .site-avatar {
   float: none;
-  width: 75px;
-  height: 75px;
+  width: 65px;
+  height: 65px;
   margin-right: 0px;
 
   @include mobile {
@@ -293,7 +293,7 @@ font-family: Garamond;
   cursor: pointer;
   font-family: Garamond;
   font-weight: 300;
-  font-size: 70px;
+  font-size: 50px;
   letter-spacing: 1px;
  text-align: center;
 }
@@ -302,7 +302,7 @@ font-family: Garamond;
   margin: -5px 0 0 0;
   color: $gray;
 font-family: Garamond;
-  font-size: 18px;
+  font-size: 12px;
 text-align: center;
 
   @include mobile {
@@ -314,7 +314,7 @@ nav {
   float: center;
   margin-top: 13px; // @TODO: Vertically middle align
   font-family: Garamond;
-  font-size: 24px;
+  font-size: 18px;
 text-align: center;
 
   @include mobile {
@@ -389,7 +389,7 @@ text-align: center;
 }
 
 .wrapper-main {
-  padding-bottom: 134px;
+  padding-bottom: 0px;
 }
 
 .wrapper-footer {
