@@ -288,12 +288,12 @@ font-family: Garamond;
 }
 
 .site-name {
-  margin-top: 10;
+  margin-top: 20;
   color: $darkGray;
   cursor: pointer;
   font-family: Garamond;
   font-weight: 300;
-  font-size: 70px;
+  font-size: 90px;
   letter-spacing: 1px;
  text-align: center;
 }
@@ -312,14 +312,14 @@ text-align: center;
 
 nav {
   float: center;
-  margin-top: 13px; // @TODO: Vertically middle align
+  margin-top: -5px; // @TODO: Vertically middle align
   font-family: Garamond;
   font-size: 30px;
 text-align: center;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 0px;
     display: block;
     font-size: 16px;
   }
