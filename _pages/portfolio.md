@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Portfolio
-permalink: /_pages/portfolio.md
+permalink: /_pages/portfolio
 ---
 
 <article class="page">
