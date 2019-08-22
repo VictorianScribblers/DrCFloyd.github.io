@@ -13,8 +13,5 @@ permalink: /_pages/portfolio
   #Maker Projects
   
   #Proficiencies
-
-  <div class="entry">
-    {{ content }}
-  </div>
+  
 </article>
