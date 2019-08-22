@@ -258,7 +258,7 @@ p > img {
   }
 }
 
-.site-avatar1 {
+.site-avatar {
   float: none;
   width: 100px;
   height: 100px;
@@ -270,53 +270,6 @@ p > img {
     margin: 0 auto;
   }
 
-.site-avatar2 {
-  float: none;
-  width: 100px;
-  height: 100px;
-  margin-right: 0px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-	
-.site-avatar3 {
-  float: none;
-  width: 100px;
-  height: 100px;
-  margin-right: 0px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-.site-avatar4 {
-  float: none;
-  width: 100px;
-  height: 100px;
-  margin-right: 0px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-.site-avatar5 {
-  float: none;
-  width: 100px;
-  height: 100px;
-  margin-right: 0px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
   img {
     border-radius: 5px;
   }
