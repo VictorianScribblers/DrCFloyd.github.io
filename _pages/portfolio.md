@@ -6,11 +6,10 @@ permalink: /_pages/portfolio
 
 <h1>Portfolio</h1>
 
-<h2>Digital and Public Humanities Projects</h2>
-<div class="grid-container">
-  <div class="grid-item"> <figure>
-  <img src="DrCFloyd.github.io/images/logo.png" alt="Photo of Fergus Hume over a spreadsheet." style="width:100%">
-   <figcaption><a href="www.courtneyafloyd.com/fergus-hume-bibliography-and-corpus">Fergus Hume Bibliography and Corpus</a></figcaption>
+
+<figure>
+  <img src="/images/logo.png" alt="Photo of Fergus Hume over a spreadsheet." style="width:100%">
+   <figcaption><a href="www.courtneyafloyd.com/DH-PH.md">Digital and Public Humanities Projects</a></figcaption>
 </figure> </div>
   <div class="grid-item"> <figure>
   <img src="DrCFloyd.github.io/images/Victorian-Scribblers-1400-x-1400.jpg" alt="Victorian Scribblers logo." style="width:100%">
