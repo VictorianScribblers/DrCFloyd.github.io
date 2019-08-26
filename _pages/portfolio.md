@@ -25,4 +25,9 @@ permalink: /_pages/portfolio
    <figcaption><a href="www.courtneyafloyd.com/teaching.html" text-align="center">Teaching</a></figcaption>
 </figure>  </div>
 
+<div class="grid-item"> <figure>
+  <a href="www.courtneyafloyd.com/talks-presentations.html"><img src="/images/screen-shot-2018-07-11-at-9-08-25-am-e1539800006107.png" alt="Word cloud" width="200" height="200"></a>
+   <figcaption><a href="www.courtneyafloyd.com/talks-presentations.html" text-align="center">Talks & Presentations</a></figcaption>
+</figure>  </div>
+
 </div>
