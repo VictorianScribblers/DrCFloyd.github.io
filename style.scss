@@ -1118,13 +1118,10 @@ Modules - reusable parts of our design
   display: grid;
   grid-column-gap: 5px;
   grid-template-columns: auto auto;
-  background-color: #2196F3;
   padding: 10px;
 }
 
 .grid-item {
-  border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
-  font-size: 30px;
   text-align: center;
 }
