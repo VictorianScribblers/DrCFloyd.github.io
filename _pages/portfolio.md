@@ -16,7 +16,7 @@ permalink: /_pages/portfolio
    <figcaption><a href="www.courtneyafloyd.com/workshops-etc.html" text-align="center">Workshops, Events, and Programming</a></figcaption> </figure>  </div>
 
 <div class="grid-item"> <figure>
-  <a href="www.courtneyafloyd.com/makerprojects.html"> <img src="/images/IMG_8832.JPG" alt="Fortune teller toys on laminate tabletop." width="200" height="200"> </a>
+  <a href="www.courtneyafloyd.com/makerprojects.html"> <img src="/images/spectrogram-of-the-sonnet-e1539800276138.png" alt="Spectrogram of Alan Rickman reading Shakespeare's Sonnet 130." width="200" height="200"> </a>
    <figcaption><a href="www.courtneyafloyd.com/makerprojects.html" text-align="center">Maker Projects</a></figcaption>
 </figure>  </div>
 
