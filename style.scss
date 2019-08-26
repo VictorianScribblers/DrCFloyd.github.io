@@ -1116,8 +1116,8 @@ Modules - reusable parts of our design
 
 .grid-container {
   display: grid;
-  grid-column-gap: 50px;
-  grid-template-columns: auto auto auto;
+  grid-column-gap: 5px;
+  grid-template-columns: auto auto;
   background-color: #2196F3;
   padding: 10px;
 }
