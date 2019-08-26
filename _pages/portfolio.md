@@ -6,24 +6,24 @@ permalink: /_pages/portfolio
 
 <h1>Portfolio</h1>
 
-
-<figure>
-  <img src="/images/logo.png" alt="Photo of Fergus Hume over a spreadsheet." style="width:100%">
+<div class="grid-container">
+  <div class="grid-item"> <figure>
+  <img src="/images/logo.png" alt="Photo of Fergus Hume over a spreadsheet." style="width:50%">
    <figcaption><a href="www.courtneyafloyd.com/DH-PH.md">Digital and Public Humanities Projects</a></figcaption>
 </figure> </div>
   <div class="grid-item"> <figure>
-  <img src="DrCFloyd.github.io/images/Victorian-Scribblers-1400-x-1400.jpg" alt="Victorian Scribblers logo." style="width:100%">
-   <figcaption><a href="www.victorianscribblers.com">Victorian Scribblers (podcast)</a></figcaption>
-</figure>  </div></div>
-  
+  <img src=" " alt=" ." style="width:50%">
+   <figcaption><a href=" ">Workshops, Events, and Programming</a></figcaption>
+</figure>  </div>
 
- <h2>Workshops, Events, and Programming</h2>
-  
- 
-  
- <h2>Maker Projects</h2>
-  
- <h2>Proficiencies</h2>
- Teaching
-  
+ <div class="grid-item"> <figure>
+  <img src=" " alt="" style="width:50%">
+   <figcaption><a href=" ">Maker Projects</a></figcaption>
+</figure>  </div>
 
+<div class="grid-item"> <figure>
+  <img src=" " alt="" style="width:50%">
+   <figcaption><a href=" ">Teaching</a></figcaption>
+</figure>  </div>
+
+</div>
