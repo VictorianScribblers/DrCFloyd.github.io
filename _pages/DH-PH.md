@@ -1,6 +1,5 @@
 ---
----
 layout: default
-title: DH and PH projects
----
+title: DH & PH
+permalink: /DH-PH/
 ---
