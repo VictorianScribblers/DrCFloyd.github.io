@@ -22,8 +22,8 @@ permalink: /_pages/portfolio
 </figure>  </div>
 
 <div class="grid-item"> <figure>
-  <a href="www.courtneyafloyd.com/teaching.html" text-align="center"><img src="/images/screen-shot-2018-03-10-at-6-57-35-pm.png" alt="Skull flyer for Intro to Fiction course" style="width:45%">
-   <figcaption><a href="www.courtneyafloyd.com/teaching.html" text-align="center">Teaching</a></figcaption></a>
+  <a href="www.courtneyafloyd.com/teaching.html"><img src="/images/screen-shot-2018-03-10-at-6-57-35-pm.png" alt="Skull flyer for Intro to Fiction course" style="width:45%"></a>
+   <figcaption><a href="www.courtneyafloyd.com/teaching.html" text-align="center">Teaching</a></figcaption>
 </figure>  </div>
 
 </div>
