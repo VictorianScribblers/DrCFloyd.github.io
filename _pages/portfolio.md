@@ -9,7 +9,7 @@ permalink: /_pages/portfolio
 <div class="grid-container">
   <div class="grid-item"> <figure>
   <img src="/images/logo.png" alt="Photo of Fergus Hume over a spreadsheet." style="width:50%">
-   <figcaption><a href="www.courtneyafloyd.com/DH-PH.md">Digital and Public Humanities Projects</a></figcaption>
+   <figcaption text-align="center"><a href="www.courtneyafloyd.com/DH-PH.md">Digital and Public Humanities Projects</a></figcaption>
 </figure> </div>
   <div class="grid-item"> <figure>
   <img src=" " alt=" ." style="width:50%">
