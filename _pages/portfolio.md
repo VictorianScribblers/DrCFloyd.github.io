@@ -12,7 +12,7 @@ permalink: /_pages/portfolio
    <figcaption><a href="www.courtneyafloyd.com/DH-PH.html" text-align="center">Digital & Public Humanities Projects</a></figcaption></figure> </div>
   
   <div class="grid-item"> <figure>
-  <a href="www.courtneyafloyd.com/workshops-etc.html"><img src="/images/podcastingflyer-1htynae.jpg" alt="Podcasting workshop flyer" width="200" height="200"></a>
+  <a href="www.courtneyafloyd.com/_pages/workshops-etc.html"><img src="/images/podcastingflyer-1htynae.jpg" alt="Podcasting workshop flyer" width="200" height="200"></a>
    <figcaption><a href="www.courtneyafloyd.com/workshops-etc.html" text-align="center">Workshops, Events, & Programming</a></figcaption> </figure>  </div>
 
 <div class="grid-item"> <figure>
