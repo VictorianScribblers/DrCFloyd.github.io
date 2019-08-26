@@ -9,7 +9,7 @@ name: Courtney A. Floyd
 author: Courtney
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/cropped-img_42471.jpg
+avatar: /images/websiteavatar.png
 
 #
 # Flags below are optional
@@ -42,14 +42,14 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://DrCFloyd.github.io
-enforce_ssl: https://DrCFloyd.github.io
+url: http://www.courtneyafloyd.com
+enforce_ssl: https:///www.courtneyafloyd.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/DrCFloyd.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
