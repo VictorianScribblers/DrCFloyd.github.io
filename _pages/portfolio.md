@@ -8,8 +8,8 @@ permalink: /_pages/portfolio
 
 <div class="grid-container">
   <div class="grid-item"> <figure>
-  <a href="/_pages/DH-PH.html"><img src="/images/hume.png" alt="Photo of Fergus Hume over a spreadsheet." width="200" height="200"></a>
-   <figcaption><a href="/_pages/DH-PH.html" text-align="center">Digital & Public Humanities Projects</a></figcaption></figure> </div>
+  <a href="/_pages/dhph.html"><img src="/images/hume.png" alt="Photo of Fergus Hume" width="200" height="200"></a>
+   <figcaption><a href="/_pages/dhph.html" text-align="center">Digital & Public Humanities Projects</a></figcaption></figure> </div>
   
   <div class="grid-item"> <figure>
   <a href="/_pages/workshops-etc.html"><img src="/images/podcastingflyer-1htynae.jpg" alt="Podcasting workshop flyer" width="200" height="200"></a>
