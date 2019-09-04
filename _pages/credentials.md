@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: customheader
 title: Credentials
 permalink: /_pages/credentials
 ---
