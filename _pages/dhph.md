@@ -1,7 +1,7 @@
 ---
 layout: customheader
 title: DH & PH
-permalink: /dhph/
+permalink: /_pages/dhph
 ---
 
 <h2><a href="https://www.victorianscribblers.com"><em>Victorian Scribblers</em></a></h2>
