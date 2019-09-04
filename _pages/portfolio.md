@@ -21,7 +21,7 @@ permalink: /_pages/portfolio
 </figure>  </div>
 
 <div class="grid-item"> <figure>
-  <a href="/_pages/teaching.html"><img src="/images/thistle.png" alt="Woodcut illustration of a thistle" width="200" height="200"></a>
+  <a href="/_pages/teaching.html"><img src="/images/thistle.png" alt="Woodcut illustration of a thistle" width="250" height="200"></a>
    <figcaption><a href="/_pages/teaching.html" text-align="center">Teaching</a></figcaption>
 </figure>  </div>
 
