@@ -4,7 +4,7 @@ title: DH & PH
 permalink: /_pages/dhph
 ---
 
-<div> <em>Victorian Scribblers</em></h2>
+<div> 
 <figure><a href="https://www.victorianscribblers.com"><img src="/images/Victorian-Scribblers-1400-x-1400.jpg" alt="Victorian Scribblers logo" width="200" height="200"></a><figcaption><a href="https://www.victorianscribblers.com">Victorian Scribblers</a></figcaption></figure>
   
 <em>Victorian Scribblers</em> is a biography and literature podcast I launched in 2017, co-hosted by me (Courtney Floyd) and Eleanor Dumbill, a Ph.D. candidate in English and Publishing at Loughborough University. Our episodes cover the lives and work of lesser-known nineteenth-century writers, and our special features highlight important cultural contexts that bring the Victorian period to life. For more about why I started this podcast, see <a href="http://victorianscribblers.com/podcast/episode-0-intro/">Episode 0 – Intro</a>  and <a href="https://maryelizabethbraddon.com/an-interview-with-courtney-a-floyd-of-the-victorian-scribblers-podcast/
