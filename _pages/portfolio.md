@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: customheader
 title: Portfolio
 permalink: /_pages/portfolio
 ---
