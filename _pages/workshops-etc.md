@@ -1,7 +1,7 @@
 ---
 layout:default
 title: Workshops, Events, and Programming
-permalink: /workshops-etc
+permalink: /_pages/workshops-etc
 ---
 <h4><a href="https://blogs.uoregon.edu/frankenreads/"><em>Frankenreads</em>: Visualizing Frankenstein Open House</a></h4>
 <ul>
