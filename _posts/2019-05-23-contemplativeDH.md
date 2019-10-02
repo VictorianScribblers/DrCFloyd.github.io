@@ -26,5 +26,5 @@ Maybe working toward a contemplative DH can help us make the digital more human(
 <hr />
 
 If you want to learn more about contemplative sciences and contemplative learning, t<span style="color:var(--color-text);">he executive director of the CSC, David Germano, touches on some of the core tenants of contemplative learning in this video:</span>
-<p style="text-align:center;"><span style="color:var(--color-text);">[youtube https://www.youtube.com/watch?v=l9nc_d8aSrQ]</span></p>
+<p style="text-align:center;"><span style="color:var(--color-text);"><iframe width="560" height="315" src="https://www.youtube.com/embed/l9nc_d8aSrQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></p>
 And Karolyn Kinane, Associate Director of Faculty Engagement and Pedagogy here at the CSC, has written some helpful posts about contemplative pedagogy on her blog, which you can find <a href="https://collegecontemplative.wordpress.com/2018/08/23/contemplative-approaches-in-communication-and-media-studies-dialogue-language-and-empathy/" target="_blank" rel="noopener">here.</a>
