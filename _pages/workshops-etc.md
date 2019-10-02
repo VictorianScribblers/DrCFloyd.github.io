@@ -1,5 +1,5 @@
 ---
-layout:default
+layout:customheader
 title: Workshops, Events, and Programming
 permalink: /_pages/workshops-etc
 ---
