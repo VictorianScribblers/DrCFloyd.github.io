@@ -24,7 +24,13 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-             <nav>
+   
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}"/></a>
+              <p class="site-description">{{ site.description }}</p> 
+            </div>
+ <nav>
               <a href="{{ site.baseurl }}/">Home</a>
               <a href="{{ site.baseurl }}/_pages/about.html">About</a>
               <a href="{{ site.baseurl }}/_pages/credentials.html">Credentials</a>
@@ -32,12 +38,6 @@
               <a href="{{ site.baseurl }}/_pages/blog.html">Blog</a>
               
             </nav>
-            <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}"/></a>
-              <p class="site-description">{{ site.description }}</p> 
-            </div>
- 
           </header>
         </div>
       </div>
