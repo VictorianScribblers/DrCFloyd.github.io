@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Forecasting for Inclusivity: A "Manifesto"
+title: Forecasting for Inclusivity
 posted-by: Courtney Floyd
 ---
-
+<h1> Forecasting for Inclusivity: A "Manifesto" <h1>
 <!-- wp:paragraph --><p>Do you remember <strong>cootie catchers</strong> (aka fortune tellers, salt cellars, chatter boxes, and I don't know what-all else)? I made these a few times when I was growing up (probably inspired by <a href="https://www.youtube.com/watch?v=U6hOtwP_Ocw" target="_blank" rel="noreferrer noopener" aria-label="that one Arthur episode (opens in a new tab)">that one <em>Arthur</em> episode</a>), and suddenly remembered them this week. I'll get to <em>why </em>I remembered them soon, but first: a better description.</p><!-- /wp:paragraph -->
 
 <!-- wp:paragraph --><p>Cootie catchers are folded-paper toys which can be used, much like Magic 8 Balls, to "predict" the future. The folding process makes them into puppet- like objects which open and close, revealing their inner contents. They are usually decorated on the outside with numbers or colors, which are then used to determine the number of times the cootie catcher is opened and closed, which in turn determines which flap one gets to lift. The fortunes, of course, are waiting under those flaps.</p><!-- /wp:paragraph -->
