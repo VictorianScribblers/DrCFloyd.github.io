@@ -9,12 +9,9 @@ For my presentation, I converted these songs to midi files and shared them with 
 
 <p style="text-align:center;"><img class="alignnone size-full wp-image-3112 aligncenter" src="https://courtneyafloyd.files.wordpress.com/2018/10/screen-shot-2018-10-01-at-4-20-29-pm.png" alt="Screen Shot 2018-10-01 at 4.20.29 PM" width="558" height="796"/></p>
 
-<audio id=”player” controls>
- <source src=”/path/to/audio.mp3" type=”https://courtneyafloyd.files.wordpress.com/2018/10/it_catches.mp3">
-</audio>
+https://courtneyafloyd.files.wordpress.com/2018/10/it_catches.mp3?autoplay=0&loop=0&controls=1
+
 
 <p style="text-align:center;"><img class="alignnone size-full wp-image-3111" src="https://courtneyafloyd.files.wordpress.com/2018/10/screen-shot-2018-10-01-at-4-21-16-pm.png" alt="Screen Shot 2018-10-01 at 4.21.16 PM" width="546" height="803" /></p>
 
-<audio id=”player” controls>
- <source src=”/path/to/audio.mp3" type=”https://courtneyafloyd.files.wordpress.com/2018/10/just_this_i_ask.mp3">
-</audio>
+https://courtneyafloyd.files.wordpress.com/2018/10/just_this_i_ask.mp3?autoplay=0&loop=0&controls=1
