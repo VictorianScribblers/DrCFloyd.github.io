@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Toward a Contemplative DH, Part Two: What It's (Maybe, Probably) Not
-posted-by:
+posted-by: Courtney Floyd
 ---
 <!-- wp:paragraph -->
 <p>In <a rel="noreferrer noopener" aria-label="my last post (opens in a new tab)" href="https://courtneyafloyd.com/2019/05/23/3229/" target="_blank">my last post</a>, I explored a set of questions I've been thinking about since I started my new job at the University of Virginia's Contemplative Sciences Center: <strong>What does labelling DH work as contemplative make possible? Might the framework of contemplative learning help us answer the question of what the humanities bring to the digital? </strong></p>
