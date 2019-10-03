@@ -26,8 +26,8 @@ permalink: /_pages/portfolio
 </figure>  </div>
 
 <div class="grid-item"> <figure>
-  <a href="/_pages/talks-presentations.html"><img src="/images/screen-shot-2018-07-11-at-9-08-25-am-e1539800006107.png" alt="Word cloud" width="200" height="200"></a>
-   <figcaption><a href="/_pages/talks-presentations.html" text-align="center">Talks & Presentations</a></figcaption>
+  <a href="/_pages/talks.html"><img src="/images/screen-shot-2018-07-11-at-9-08-25-am-e1539800006107.png" alt="Word cloud" width="200" height="200"></a>
+   <figcaption><a href="/_pages/talks.html" text-align="center">Talks & Presentations</a></figcaption>
 </figure>  </div>
 
 </div>
