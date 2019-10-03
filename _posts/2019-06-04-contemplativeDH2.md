@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toward a Contemplative DH 2
+title: Part Two Toward a Contemplative DH
 posted-by: Courtney Floyd
 ---
 <h1>Toward a Contemplative DH, Part Two: What It's (Maybe, Probably) Not</h1>
