@@ -3,6 +3,13 @@ layout: post
 title: Listening Outward at NAVSA 2018
 posted-by: Courtney Floyd
 ---
+<script src="/audiojs/audio.min.js"></script>
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
 <h1>Listening Outward at NAVSA 2018</h1>
 <h2 style="text-align:left">This year for the National Victorian Studies Association (NAVSA) Conference, I transcribed two songs which were printed in <em>The Weekly Telegraph </em>in 1894. My paper, "Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper," was part of a panel in which I, Kate Nesbit (U Iowa), Miranda Butler (UC Riverside), and Shannon Draucker (Boston U) explored the intersections of sound, embodiment, and knowledge. It was a fascinating panel, and I'm so delighted to call these brilliant women my colleagues and friends.
 
