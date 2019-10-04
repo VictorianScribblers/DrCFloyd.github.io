@@ -6,7 +6,7 @@ permalink: /_pages/portfolio
 
 <h1>Portfolio</h1>
 
-<h2 style="text-align:left">I have organized my critical and creative work into four areas: <a href="/_pages/sound.html" >Sound</a>, <a href="/_pages/text.html">Text</a>, <a href="/_pages/body.html">Body</a>, and <a href="/_pages/tech.html" text-align="center">Tech</a>. On each of these pages, you will find DH projects, talks, teaching materials, and more. Because categories are slippery, there will be some overlap between these pages. My hope is that they will offer a non-linear way to engage with my scholarship. My CV is available <a href="/_pages/credentials.html">here</a> if you'd prefer a more streamlined way to engage.</h2>
+<h3 style="text-align:left">I have organized my critical and creative work into four areas: <a href="/_pages/sound.html" >Sound</a>, <a href="/_pages/text.html">Text</a>, <a href="/_pages/body.html">Body</a>, and <a href="/_pages/tech.html" text-align="center">Tech</a>. On each of these pages, you will find DH projects, talks, teaching materials, and more. Because categories are slippery, there will be some overlap between these pages. My hope is that they will offer a non-linear way to engage with my scholarship. My CV is available <a href="/_pages/credentials.html">here</a> if you'd prefer a more streamlined way to engage.</h3>
 
 <div class="grid-container">
   <div class="grid-item"> <figure>
