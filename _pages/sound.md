@@ -21,7 +21,7 @@ permalink: /_pages/sound
 
 <h3><strong>Some of my early experiments with academic sound recording (quality poor):</strong></h3>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315085095&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><br>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315085095&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><br><br>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315087803&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -36,9 +36,7 @@ permalink: /_pages/sound
 
 <h2>Teaching and Workshops with Sound</h2>
 
-<h3 style="text-align:left">As detailed in <a href="https://courtneyafloyd.com/listening/">this blog post</a> and <a href="http://victorianscribblers.com/podcast/bonus-episode-navsa-2018/">this episode of <em>Victorian Scribblers</em></a>. The midis I generated for this presentation are included below:<br>
-  
-In Spring 2018, I took my engagements with sound into the classroom, training 35 undergraduates to use sound recording equipment and the open source DAW, Audacity, to create their own podcast, <em>Archetypes & Anarchy</em>. The podcast is available on iTunes and via our <a href="blogs.uoregon.edu/archtypesanarchy">course website</a>, where I've also archived course materials. Below, you can listen to the first episode of that podcast and view the syllabus and podcasting packet I provided students:</h3>
+<h3 style="text-align:left">In Spring 2018, I took my engagements with sound into the classroom, training 35 undergraduates to use sound recording equipment and the open source DAW, Audacity, to create their own podcast, <em>Archetypes & Anarchy</em>. The podcast is available on iTunes and via our <a href="blogs.uoregon.edu/archtypesanarchy">course website</a>, where I've also archived course materials. Below, you can listen to the first episode of that podcast and view the syllabus and podcasting packet I provided students:</h3>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691084879&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> <br>
 
