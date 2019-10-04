@@ -14,9 +14,11 @@ permalink: /_pages/text
 <ul>
   <li>“The History of 19th- & 20th-Century Typography & Printing,” a summer course held at the University of Virginia’s Rare Book School, 2017</li>
 <li>“The Printed Book in the West since 1800,” a summer course held at the University of Virginia’s Rare Book School, 2016</li>
-  </ul>
+  </ul></h2>
+ 
+ <h2><strong>Practice</strong></h2>
   
-<p>From 2016-2017, I published a series of blog posts inspired by the first Rare Book School course I took. I've provided links to them below. They're also available on <a href="/_pages/blog.html">my blog</a>.</p>
+<h2 style="text-align:left">From 2016-2017, I published a series of blog posts inspired by the first Rare Book School course I took. I've provided links to them below. They're also available on <a href="/_pages/blog.html">my blog</a>.<br>
 
 <ul>
   <li><a href="https://courtneyafloyd.com/hagar/">Fergus Hume's <em>Hagar of the Pawn-Shop</em> (1898)</a></li>
@@ -34,7 +36,7 @@ permalink: /_pages/text
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
-  </ul>
+  </ul></h2>
 
 <h1>Book Making</h1>
 
