@@ -30,8 +30,8 @@ permalink: /_pages/text
   <li><a href="https://courtneyafloyd.com/women/">Author Unknown <em>Women of History</em> (date unknown)</a></li>
   <li><a href="https://courtneyafloyd.com/dana/">Dana Jr.'s <em>Two Years Before the Mast</em> (1911, 1916)</a></li>
   <li><a href="https://courtneyafloyd.com/mcdonald/">MacDonald's <em>At the Back of the North Wind</em> (1924?)</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://courtneyafloyd.com/luxart/">Little Luxart Library Editions (1920s)</a></li>
+  <li><a href="https://courtneyafloyd.com/arnold/">Matthew Arnold's <em>Poetical Works</em></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
   <li><a href=""></a></li>
