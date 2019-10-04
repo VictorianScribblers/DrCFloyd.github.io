@@ -3,7 +3,7 @@ layout: customheader
 title: Sound
 permalink: /_pages/sound
 ---
-
+<h1>Sound</h1>
 <h3 style="text-align:left">Sound has been part of my creative practice for some time. As a teenager, I started a bluegrass and folk band with my sisters. In between touring festivals, county fairs, and other small vengues, we recorded our first CD on at home. The process of recording was infuriating and electrifying––despite an enormous learning curve, I was hooked.</h3> 
 
 <h3><strong>"Can You Hear That Whistle?" A song composed by me, and performed by my sisters and I:</strong></h3>
