@@ -18,7 +18,7 @@ permalink: /_pages/portfolio
    <figcaption><a href="/_pages/text.html" text-align="center">Text</a></figcaption> </figure>  </div>
    
   <div class="grid-item"> <figure>
-  <a href="/_pages/body.html"><img src="/images/ 11206674875_d47038a8db_q.jpg" alt="Woman bursting through paper in Victorian soap advertisement." width="200" height="200"></a>
+  <a href="/_pages/body.html"><img src="/images/11206674875_d47038a8db_q.jpg" alt="Woman bursting through paper in Victorian soap advertisement." width="200" height="200"></a>
    <figcaption><a href="/_pages/body.html" text-align="center">Body</a></figcaption> </figure>  </div> 
 
 <div class="grid-item"> <figure>
