@@ -13,7 +13,7 @@ permalink: /_pages/sound
   
 <p>The extent to which sound radically interacts with and even reshapes embodied experience came clear to me as I wrote journal articles about <a href="https://ncl.ucpress.edu/content/74/1/30">Thoreau's reaction to the telegraph lines thrumming through "pristine" natural landscapes</a> and the way one woman's silence calls attention to embodiment in the sonically rich setting of the seashore. (For the latter, see "'Her who never spoke': Oral/Aural Disability, the Female Voice, and the Deafened Moment in M.E. Braddon’s ‘Waiting.’” on <a href="/_pages/credentials.html">my CV</a>.) It became even clearer as I embarked on my own soundwriting project: a public humanities and history podcast called <a href="https://victorianscribblers.com"><em>Victorian Scribblers</em></a>. While editing episodes, I learned to recognize the shapes of my breath, my verbal ticks, and my laughter.
  
-<figure style="text-align:center"><img src="/images/mantaray.png" alt="Tweet that reads 'Sometimes my laughs look like manta rays, and it makes me really happy to know that' with attached image of waveform."><figcaption style="text-align:center">Caption: Tweet that reads 'Sometimes my laughs look like manta rays, and it makes me really happy to know that' with attached image of waveform."</figcaption></figure>
+<figure style="text-align:center"><img src="/images/mantaray.png" alt="Tweet that reads 'Sometimes my laughs look like manta rays, and it makes me really happy to know that' with attached image of waveform."><figcaption style="text-align:center">Caption: Tweet that reads 'Sometimes my laughs look like manta rays, and it makes me really happy to know that' with attached image of waveform.</figcaption></figure>
 
 
 <h2><strong>A collection of my formal engagements with sound</strong></h2>
@@ -28,7 +28,7 @@ permalink: /_pages/sound
 <h3><strong>The most recent episode of my podcast, <em>Victorian Scribblers</em>:</strong></h3>
  <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups" scrolling="no" width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=victorian-scribblers-GZ0gRL"></iframe>
 
-<h3 style="text-align:left"><strong>My NAVSA 2018 presentation, “Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper,”</strong> as detailed in <a href="https://courtneyafloyd.com/listening/">this blog post</a> and <a href="http://victorianscribblers.com/podcast/bonus-episode-navsa-2018/">this episode of <em>Victorian Scribblers</em></a>. The midis I generated for this presentation are included below:</h3>
+<h3 style="text-align:left"><strong>My NAVSA 2018 presentation, “Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper,”</strong> is detailed in <a href="https://courtneyafloyd.com/listening/">this blog post</a> and <a href="http://victorianscribblers.com/podcast/bonus-episode-navsa-2018/">this episode of <em>Victorian Scribblers</em></a>. The midis I generated for this presentation are included below:</h3>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691075507&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><br><br>
 
@@ -44,13 +44,13 @@ permalink: /_pages/sound
 
 <iframe src="https://drive.google.com/file/d/1dvA08dAdHo4S39cZgQylD784RyT19B35/preview" width="640" height="480" style="text-align:center"></iframe></div><br><br>
 
-<h3 style="text-align:left"> In the same year, I collaborated with DH@UO to put on a podcasting workshop for faculty and staff. I talked about podcasting in the classroom, created a handout for creating and distributing a podcast episode for free, and led a demo in which we recorded, added background music, and uploaded our own episode. You can see the workshop website <a href="https://blogs.uoregon.edu/podcasting/">here.</a></h3>
+<h3 style="text-align:left"> In the same year, I collaborated with DH@UO to put on a podcasting workshop for faculty and staff. I talked about podcasting in the classroom, provided a handout for creating and distributing a podcast episode for free, and led a demo in which we recorded, added background music, and uploaded our own episode. You can see the workshop website <a href="https://blogs.uoregon.edu/podcasting/">here.</a></h3>
 
 <figure style="text-align:center"><img src="/images/podcastingflyer-1htynae.jpg" alt="Podcasting workshop flyer."><figcaption style="text-align:center">Caption: Podcasting workshop flyer."</figcaption></figure><br>
 
 <h3 style="text-align:left">In other workshops, I've worked with participants to record and visualize their voices, compare visualized recordings against one another to see what we can learn, match recordings of birds with their visualizations, and more. You can read more about this work in the section of my portfolio titled <a href="/_pages/body.html">Body</a>.<br><br>
   
- <figure style="text-align:center"><img src="/images/dpwFrankenRead.PNG" alt="image of waveform"><figcaption style="text-align:center">Caption: Waveform of workshop participant reading "Beware, for I am fearless and therefore powerful" during the Frankenreads event I organized.</figcaption></figure><br><br>
+ <figure style="text-align:center"><img src="/images/dpwFrankenRead.PNG" alt="image of waveform"><figcaption style="text-align:center">Caption: Waveform of workshop participant reading "Beware, for I am fearless and therefore powerful" during the <em>Frankenreads</em> event I organized.</figcaption></figure><br><br>
  
  <figure style="text-align:center"><img src="/images/Flyer_HumanitiesInTheVizLab.jpg" alt="workshop flyer"><figcaption style="text-align:center">Caption: Humanities in the Viz Lab workshop flyer."</figcaption></figure><br><br>
   
