@@ -30,7 +30,7 @@ permalink: /_pages/sound
 
 <h3 style="text-align:left"><strong>My NAVSA 2018 presentation, “Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper,”</strong> as detailed in <a href="https://courtneyafloyd.com/listening/">this blog post</a> and <a href="http://victorianscribblers.com/podcast/bonus-episode-navsa-2018/">this episode of <em>Victorian Scribblers</em></a>. The midis I generated for this presentation are included below:</h3>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691075507&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691075507&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><br><br>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691076056&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -50,7 +50,7 @@ permalink: /_pages/sound
 
 <h3 style="text-align:left">In other workshops, I've worked with participants to record and visualize their voices, compare visualized recordings against one another to see what we can learn, match recordings of birds with their visualizations, and more. You can read more about this work in the section of my portfolio titled <a href="/_pages/body.html">Body</a>.<br><br>
   
- <figure style="text-align:center"><img src="/images/dpwFrankenRead.PNG" alt="image of waveform"><figcaption style="text-align:center">Caption: Waveform of workshop participant reading "Beware, for I am fearless and therefore powerful" during the Frankenreads event I organized."</figcaption></figure><br><br>
+ <figure style="text-align:center"><img src="/images/dpwFrankenRead.PNG" alt="image of waveform"><figcaption style="text-align:center">Caption: Waveform of workshop participant reading "Beware, for I am fearless and therefore powerful" during the Frankenreads event I organized.</figcaption></figure><br><br>
  
  <figure style="text-align:center"><img src="/images/Flyer_HumanitiesInTheVizLab.jpg" alt="workshop flyer"><figcaption style="text-align:center">Caption: Humanities in the Viz Lab workshop flyer."</figcaption></figure><br><br>
   
