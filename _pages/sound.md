@@ -15,8 +15,8 @@ permalink: /_pages/sound
  
 <figure style="text-align:center"><img src="/images/mantaray.png" alt="Tweet that reads 'Sometimes my laughs look like manta rays, and it makes me really happy to know that' with attached image of waveform."><figcaption style="text-align:center">Caption: Tweet that reads 'Sometimes my laughs look like manta rays, and it makes me really happy to know that' with attached image of waveform."</figcaption></figure>
 
-<hr>
-<h2>A collection of my formal engagements with sound</h2>
+
+<h2><strong>A collection of my formal engagements with sound</strong></h2>
 
 
 <h3><strong>Some of my early experiments with academic sound recording (quality poor):</strong></h3>
