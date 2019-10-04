@@ -28,8 +28,7 @@ permalink: /_pages/sound
 <h3><strong>The most recent episode of my podcast, <em>Victorian Scribblers</em>:</strong></h3>
  <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups" scrolling="no" width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=victorian-scribblers-GZ0gRL"></iframe>
 
-<h3><strong>My NAVSA 2018 presentation, “Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper.”</strong></h3>
-<h3 style="text-align:left">As detailed in <a href="https://courtneyafloyd.com/listening/">this blog post</a> and <a href="http://victorianscribblers.com/podcast/bonus-episode-navsa-2018/">this episode of <em>Victorian Scribblers</em></a>. The midis I generated for this presentation are included below:</h3>
+<h3 style="text-align:left"><strong>My NAVSA 2018 presentation, “Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper,”</strong> as detailed in <a href="https://courtneyafloyd.com/listening/">this blog post</a> and <a href="http://victorianscribblers.com/podcast/bonus-episode-navsa-2018/">this episode of <em>Victorian Scribblers</em></a>. The midis I generated for this presentation are included below:</h3>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691075507&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
