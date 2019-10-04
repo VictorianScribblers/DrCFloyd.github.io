@@ -32,10 +32,10 @@ permalink: /_pages/text
   <li><a href="https://courtneyafloyd.com/mcdonald/">MacDonald's <em>At the Back of the North Wind</em> (1924?)</a></li>
   <li><a href="https://courtneyafloyd.com/luxart/">Little Luxart Library Editions (1920s)</a></li>
   <li><a href="https://courtneyafloyd.com/arnold/">Matthew Arnold's <em>Poetical Works</em></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://courtneyafloyd.com/ouida/">Ouida's <em>Bimbi</em> (1882)</a></li>
+  <li><a href="https://courtneyafloyd.com/mcgrath/">MacGrath's <em>Arms and the Woman</em> (1899)</a></li>
+  <li><a href="https://courtneyafloyd.com/burnett/">Burnett's <em>The Shuttle</em> (1906-7)</a></li>
+  <li><a href="https://courtneyafloyd.com/plasticity/">On Plasticity: Book History Series Update</a></li>
   </ul></h2>
 
 <h1>Book Making</h1>
