@@ -5,6 +5,24 @@ permalink: /_pages/text
 ---
 <h1>Periodical Studies</h1>
 
+<h2>Publications</h2>
+<h2 style="text-align:left">
+“‘Take it when tendered’: M.E. Braddon’s Thou Art the Man (1894) and The Weekly Telegraph’s Media Model of Disability.” Victorian Review (forthcoming 2019).<br></h2>
+
+<h2>Presentations</h2>
+<h2 style="text-align:left">
+“Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper.” North American Studies Association (NAVSA), St. Petersburg, FL, October 2018.<br>
+
+ “‘Take it when tendered’: Medicine, Material Texts, and the Creation of (Dis)Ability in the Nineteenth-Century Newspaper.” The Body and the Page in Victorian Culture: An International Conference, Research Society for Victorian Periodicals (RSVP) and Victorian Studies Association of Western Canada (VSAWC), Victoria, B.C., July 2018.<br></h2>
+
+<h2><strong>A Mini Blog Series on C19 Periodicals</strong></h2>
+<h2 style="text-align:left"><ul>
+  <li><a href="https://courtneyafloyd.com/sheffield/">A Brief Introduction to the <em>Sheffield Daily Telegraph</em> (1855-1950)</a></li>
+  <li><a href="https://courtneyafloyd.com/masthead/">Tracking a Masthead Over Time</a></li>
+  <li><a href="https://courtneyafloyd.com/unifyingstructures/">On Unifying Structures in the <em>Sheffield Daily Telegraph</em> (1879-1880)</a></li>
+  <li><a href="https://courtneyafloyd.com/weeklytelegraph/">Unifying Structures in the <em>Weekly Telegraph</em> (1894)</a></li>
+ </ul></h2>
+
 <h1>Text and Corpus Analysis<h1>
 
 <h1>Book History</h1>
@@ -41,3 +59,9 @@ permalink: /_pages/text
 <h1>Book Making</h1>
 
 <h1>Creative Writing</h1>
+
+<ul>
+  <li>"Carly Ann and the Scatomancer." <em>Speculative Masculinities</em>, Galli Books. (forthcoming)</li>
+  <li><a href="https://firesidefiction.com/a-post-modern-oracle">“A Post-Modern Oracle.” <em>Fireside Fiction Magazine</em> (2018).</a></li>
+  <li><a href="https://firesidefiction.com/h-n-d-plumbing"></a>“H&D Plumbing.” <em>Fireside Fiction Magazine</em> (2017).</li>
+ </ul>
