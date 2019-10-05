@@ -83,4 +83,4 @@ Because I believe data sets should be shared when possible, I've uploaded them t
   <li><a href="https://firesidefiction.com/a-post-modern-oracle">“A Post-Modern Oracle.” <em>Fireside Fiction Magazine</em> (2018).</a></li>
   <li><a href="https://firesidefiction.com/h-n-d-plumbing">“H&D Plumbing.” <em>Fireside Fiction Magazine</em> (2017).</a></li>
  </ul></h2>
- <img src="/images/DrCFloyd.github.io/images/36189009_10215172751489571_2613870410051092480_n.jpg" alt="Courtney holding a recent publication." style="text-align:center"><br>
+ <img src="/images/36189009_10215172751489571_2613870410051092480_n.jpg" alt="Courtney holding a recent publication." style="text-align:center"><br>
