@@ -3,6 +3,8 @@ layout: customheader
 title: Text
 permalink: /_pages/text
 ---
+<img src="https://www.instagram.com/p/BXGcDhSF-1X/?utm_source=ig_web_button_share_sheet" alt="photo of Courtney operating a vandercook printing press." style="text-align:center">
+
 <h1>Periodical Studies</h1>
 
 <h2>Publications</h2>
@@ -11,7 +13,7 @@ permalink: /_pages/text
 
 <h2>Presentations</h2>
 <h2 style="text-align:left">
-“Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper.” North American Studies Association (NAVSA), St. Petersburg, FL, October 2018.<br>
+“Printing Synesthesia: Sensory Epistemologies in the Nineteenth-Century Newspaper.” North American Studies Association (NAVSA), St. Petersburg, FL, October 2018.<br><br>
 
  “‘Take it when tendered’: Medicine, Material Texts, and the Creation of (Dis)Ability in the Nineteenth-Century Newspaper.” The Body and the Page in Victorian Culture: An International Conference, Research Society for Victorian Periodicals (RSVP) and Victorian Studies Association of Western Canada (VSAWC), Victoria, B.C., July 2018.<br></h2>
 
@@ -24,6 +26,8 @@ permalink: /_pages/text
  </ul></h2>
 
 <h1>Text and Corpus Analysis<h1>
+
+<img src="" alt="">
 
 <h1>Book History</h1>
 
@@ -58,10 +62,14 @@ permalink: /_pages/text
 
 <h1>Book Making</h1>
 
+<img src="/images/" alt="">
+
 <h1>Creative Writing</h1>
 
-<ul>
+<img src="/images/IMG_7180.jpg" alt="screenshot of Courtney's author website"><br>
+
+<h2 style="text-align:left"><ul>
   <li>"Carly Ann and the Scatomancer." <em>Speculative Masculinities</em>, Galli Books. (forthcoming)</li>
   <li><a href="https://firesidefiction.com/a-post-modern-oracle">“A Post-Modern Oracle.” <em>Fireside Fiction Magazine</em> (2018).</a></li>
   <li><a href="https://firesidefiction.com/h-n-d-plumbing"></a>“H&D Plumbing.” <em>Fireside Fiction Magazine</em> (2017).</li>
- </ul>
+ </ul></h2>
