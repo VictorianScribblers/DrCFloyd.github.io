@@ -4,7 +4,7 @@ title: Sound
 permalink: /_pages/sound
 ---
 <h1>Sound</h1>
-<h3 style="text-align:left">Sound has been part of my creative practice for some time. As a teenager, I started a bluegrass and folk band with my sisters. In between touring festivals, county fairs, and other small vengues, we recorded our first CD on at home. The process of recording was infuriating and electrifying––despite an enormous learning curve, I was hooked.</h3> 
+<h3 style="text-align:left">Sound has been part of my creative practice for some time. As a teenager, I started a bluegrass and folk band with my sisters. In between touring festivals, county fairs, and other small vengues, we recorded our first CD on a Tascam at home. The process of recording was infuriating and electrifying––despite an enormous learning curve, I was hooked.</h3> 
 
 <h3><strong>"Can You Hear That Whistle?" A song composed by me, and performed by my sisters and I:</strong></h3>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/262196406&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
