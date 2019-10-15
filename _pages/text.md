@@ -10,7 +10,13 @@ permalink: /_pages/text
 
 <h3>Publications</h3>
 <h3 style="text-align:left">
-“‘Take it when tendered’: M.E. Braddon’s Thou Art the Man (1894) and The Weekly Telegraph’s Media Model of Disability.” Victorian Review (forthcoming 2019).<br></h3>
+<a href="https://ncl.ucpress.edu/content/74/1/30">“‘Always the same unrememberable revelation’: Thoreau’s Telegraph Harp, the Development of an Immanent Romantic Secularism, and Golden Age Children’s Literature.”</a> Nineteenth-Century Literature, vol. 74, no. 1, June 2019, pp. 30-53.<br>
+ 
+“‘Take it when tendered’: M.E. Braddon’s Thou Art the Man (1894) and The Weekly Telegraph’s Media Model of Disability.” Victorian Review (forthcoming 2019).<br>
+
+“‘Her who never spoke’: Oral/Aural Disability, the Female Voice, and the Deafened Moment in M.E. Braddon’s ‘Waiting.’” Women’s Writing (forthcoming)<br>
+
+</h3>
 
 <h3>Presentations</h3>
 <h3 style="text-align:left">
@@ -36,12 +42,12 @@ permalink: /_pages/text
 
 <h3>Dissertation Data</h3>
 <h3 style="text-align:left">I compiled three corpora (totaling over 155 Victorian novels and novellas) while writing the final chapter of my dissertation.
-Because I believe data sets should be shared when possible, I've uploaded them to a GitHub repository <a href="">here</a>.
+Because I believe data sets should be shared when possible, I've uploaded them to a GitHub repository <a href="https://github.com/DrCFloyd/C19Corpora">here</a>.
 
 <ul>
- <li>The Victorian Bestseller Corpus...</li>
-<li>The Author Character Corpus...</li>
-<li>The Eliot Corpus...</li>
+ <li><a href="https://github.com/DrCFloyd/C19Corpora/tree/master/VBC">The Victorian Bestseller Corpus</a></li>
+ <li><a href="https://github.com/DrCFloyd/C19Corpora/tree/master/ACC">The Author Character Corpus</a></li>
+<li><a href="https://github.com/DrCFloyd/C19Corpora/tree/master/EliotCorpus">The Eliot Corpus</a></li>
  </ul></h3>
 
 <h2>Book History</h2>
