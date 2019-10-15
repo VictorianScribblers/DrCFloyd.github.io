@@ -10,11 +10,11 @@ permalink: /_pages/text
 
 <h3>Publications</h3>
 <h3 style="text-align:left">
-<a href="https://ncl.ucpress.edu/content/74/1/30">“‘Always the same unrememberable revelation’: Thoreau’s Telegraph Harp, the Development of an Immanent Romantic Secularism, and Golden Age Children’s Literature.”</a> Nineteenth-Century Literature, vol. 74, no. 1, June 2019, pp. 30-53.<br>
+<p><a href="https://ncl.ucpress.edu/content/74/1/30">“‘Always the same unrememberable revelation’: Thoreau’s Telegraph Harp, the Development of an Immanent Romantic Secularism, and Golden Age Children’s Literature.”</a> Nineteenth-Century Literature, vol. 74, no. 1, June 2019, pp. 30-53.</p><br>
  
-“‘Take it when tendered’: M.E. Braddon’s Thou Art the Man (1894) and The Weekly Telegraph’s Media Model of Disability.” Victorian Review (forthcoming 2019).<br>
+<p>“‘Take it when tendered’: M.E. Braddon’s Thou Art the Man (1894) and The Weekly Telegraph’s Media Model of Disability.” Victorian Review (forthcoming 2019).</p><br>
 
-“‘Her who never spoke’: Oral/Aural Disability, the Female Voice, and the Deafened Moment in M.E. Braddon’s ‘Waiting.’” Women’s Writing (forthcoming)<br>
+<p>“‘Her who never spoke’: Oral/Aural Disability, the Female Voice, and the Deafened Moment in M.E. Braddon’s ‘Waiting.’” Women’s Writing (forthcoming).</p><br>
 
 </h3>
 
